@@ -1,2 +1,2 @@
 # ImagesLicoreria
-Photos
+Photos for the enterprise Licoreria of Mateo.
